@@ -1,0 +1,7 @@
+openai-whisper
+speechrecognition
+pyaudio
+librosa
+soundfile
+torch
+numpy
