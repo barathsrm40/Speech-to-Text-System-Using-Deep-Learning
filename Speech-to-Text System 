@@ -1,0 +1,40 @@
+---
+
+## Day-Wise Project Plan
+
+### Day 1 – Project Planning
+- Selected project title  
+- Defined objectives and problem statement  
+- Studied basics of speech-to-text systems  
+
+### Day 2 – Technology Selection
+- Selected programming language (Python)  
+- Identified deep learning model for speech recognition  
+- Installed required libraries and tools  
+
+### Day 3 – Audio Input Handling
+- Implemented microphone/audio file input  
+- Preprocessed audio data  
+- Tested audio capture functionality  
+
+### Day 4 – Speech Recognition Implementation
+- Integrated deep learning speech recognition model  
+- Converted speech input to text  
+- Tested with sample audio files  
+
+### Day 5 – Accuracy Improvement
+- Improved recognition accuracy  
+- Handled noise and speech variations  
+- Optimized model performance  
+
+### Day 6 – Testing and Validation
+- Tested system with different users  
+- Verified output correctness  
+- Fixed errors and bugs  
+
+### Day 7 – Documentation and Submission
+- Prepared README and project documentation  
+- Uploaded project to GitHub  
+- Final testing and project submission  
+
+---
